@@ -68,7 +68,7 @@ Makefile trong project này có 4 rule chính:
 2. Chạy chương trình:
 
    ```bash
-   ./main.exe # hoặc ./main.exe đều được
+   ./main.exe # hoặc .\main.exe đều được
    ```
 
 3. Dọn dẹp các file biên dịch:
