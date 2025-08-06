@@ -70,7 +70,6 @@ Project nhỏ có thể gồm nhiều file `.c`, `.h` ở các thư mục khác 
 ## 3. Bắt đầu seri tự học
 
 Tổ chức thành **9 folder** tương ứng với 9 bài học.  
-Copy–paste nội dung hướng dẫn vào file `README.md` trong mỗi folder.
 
 ---
 
